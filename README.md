@@ -234,3 +234,12 @@ Gráfico de líneas con la variación del número de viajes en cada día de la s
 Gráfico circular con la clase de bici más usado para los dos tipos de usuario.
 Gráfico de barras con la duración media de los viajes para los tipos de clientes, en cada mes del año, y en cada día de la semana.
 Tablas con las estaciones más visitadas para los dos tipos de clientes.
+
+Conclusiones:
+
+Con el informe se pueden extraer las siguientes conclusiones sobre los clientes que utilizan las bicicletas de Cyclistic:
+Más de la mitad de los viajes los realizan los clientes que son miembros. Usan casi por igual las bicicletas eléctricas y las clásicas, siendo estas un poco más usadas. Los clientes casuales prefieren las bicicletas eléctricas para sus viajes.
+Los clientes casuales usan las bicicletas en las estaciones más cercanas a parques y zonas de ocio, mientras que los clientes miembros usan las bicicletas de estaciones más céntricas y cercanas a zona de trabajos y universidades. Los viajes que realizan los miembros se reparten más equitativamente entre las estaciones más visitadas, mientras que los usuarios casuales tienen preferencia por ciertas estaciones cercanas a zonas de ocio.
+Los clientes miembros usan las bicicletas para viajes más cortos en todos los días de la semana que los clientes casuales. La duración media aumenta en ambos casos en los días de fin de semana. La media de duración de los viajes se mantiene superior para los clientes casuales durante todos los meses de año.
+Ambos tipos de clientes usan más las bicicletas en la época del año que comprende entre Mayo y Septiembre, donde hay mejor tiempo para poder salir con la bicicleta. En cuanto a los días de la semana que más viajes se realizan, hay una gran diferencia entre los dos tipos de clientes. Los clientes casuales usan las bicicletas mayoritariamente los fines de semana, y los clientes miembros realizan más viajes en los días de entresemana o laborables.
+Los clientes miembros están suscritos a cyclistic porque utilizan las bicicletas en el día a día para ir al trabajo o al instituto/universidad. Para aumentar el número de clientes miembros habría que ubicar nuevas estaciones cercanas a zonas de trabajo o de estudios, para que más gente pudiera optar por este servicio. Al usarlas más veces a la semana y durante periodos más cortos, prefieren las bicicletas clásicas ya que no requieren de recarga como las bicicletas eléctricas.
