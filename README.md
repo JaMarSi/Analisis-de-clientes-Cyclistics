@@ -243,3 +243,8 @@ Los clientes casuales usan las bicicletas en las estaciones más cercanas a parq
 Los clientes miembros usan las bicicletas para viajes más cortos en todos los días de la semana que los clientes casuales. La duración media aumenta en ambos casos en los días de fin de semana. La media de duración de los viajes se mantiene superior para los clientes casuales durante todos los meses de año.
 Ambos tipos de clientes usan más las bicicletas en la época del año que comprende entre Mayo y Septiembre, donde hay mejor tiempo para poder salir con la bicicleta. En cuanto a los días de la semana que más viajes se realizan, hay una gran diferencia entre los dos tipos de clientes. Los clientes casuales usan las bicicletas mayoritariamente los fines de semana, y los clientes miembros realizan más viajes en los días de entresemana o laborables.
 Los clientes miembros están suscritos a cyclistic porque utilizan las bicicletas en el día a día para ir al trabajo o al instituto/universidad. Para aumentar el número de clientes miembros habría que ubicar nuevas estaciones cercanas a zonas de trabajo o de estudios, para que más gente pudiera optar por este servicio. Al usarlas más veces a la semana y durante periodos más cortos, prefieren las bicicletas clásicas ya que no requieren de recarga como las bicicletas eléctricas.
+
+Dashboard:
+
+![Dashboard](https://user-images.githubusercontent.com/122362266/236689809-8dcf219c-b0ba-44aa-81e8-9a79767e96ff.jpg)
+
